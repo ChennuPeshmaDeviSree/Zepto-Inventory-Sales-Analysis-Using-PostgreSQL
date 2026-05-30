@@ -23,9 +23,6 @@ WITH discount_rank AS (
         ) AS rnk
     FROM zepto
 )
-SELECT *
-FROM discount_rank
-WHERE rnk = 1;
 
 --Category Revenue Ranking
 SELECT
