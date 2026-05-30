@@ -71,3 +71,14 @@ The dataset contains product-level information including:
 ## Conclusion
 
 This project demonstrates practical SQL skills for data analysis, including data exploration, business analysis, ranking techniques, inventory assessment, and revenue analytics using PostgreSQL.
+
+## Sample Query Outputs
+
+### Top 3 Highest MRP Products in Each Category
+![Top 3 Highest MRP Products](top_3_highest_mrp_products.png)
+
+### Highest Discount Product in Each Category
+![Highest Discount Product](highest_discount_product.png)
+
+### Category Revenue Ranking
+![Category Revenue Ranking](category_revenue_ranking.png)
